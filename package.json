@@ -1,6 +1,6 @@
 {
   "name": "glob-intersect",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check whether two file globs intersect",
   "main": "index.js",
   "directories": {
