@@ -1,0 +1,30 @@
+{
+  "name": "glob-intersect",
+  "version": "0.0.1",
+  "description": "Check whether two file globs intersect",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "~2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spion/glob-intersect.git"
+  },
+  "keywords": [
+    "glob",
+    "intersect"
+  ],
+  "author": "spion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spion/glob-intersect/issues"
+  },
+  "homepage": "https://github.com/spion/glob-intersect"
+}
